@@ -1,0 +1,9 @@
+main: me.vasil7112.PortableTent.PortableTent
+name: PortableTent
+version: 1.4.5
+author: vasil7112
+commands:
+   PortableTent:
+      description: Displays all commands.
+      aliases: [ptent, pt]
+      usage: /<command>
